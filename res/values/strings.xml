@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">scefyp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">AAA</string>
+    <string name="edit_message">Enter here</string>
+    <string name="button_search">Search</string>
+    <string name="title_activity_display_message">My Message</string>
+    <string name="button_capture">Capture</string>
+    <string name="title_activity_capture">Capture</string>
+    <string name="button_manage">Manage Drugs</string>
+    <string name="title_activity_manage">ManageActivity</string>
+    <string name="manage_title">List of Drugs</string>
+
+</resources>
