@@ -51,7 +51,7 @@ public class DatabaseHandler extends SQLiteOpenHelper{
 	    onCreate(db);
 	}
 	
-	// all CREATE, READ, UPDAE, DELETE action below
+	// all CREATE, READ, UPDAE, DELETE action below 
 	public void addDrug(Drug drug){
 		SQLiteDatabase db = this.getWritableDatabase();
 	    ContentValues values = new ContentValues();
