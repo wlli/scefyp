@@ -12,5 +12,7 @@
     <string name="button_manage">Manage Drugs</string>
     <string name="title_activity_manage">ManageActivity</string>
     <string name="manage_title">List of Drugs</string>
+    <string name="title_activity_manage_drug">ManageDrugActivity</string>
+    <string name="drug_icon">drug icon</string>
 
 </resources>
